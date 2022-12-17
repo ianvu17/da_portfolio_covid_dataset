@@ -1,3 +1,6 @@
+-- Using these querry results to build a Tableau Portfolio Project at 
+-- https://public.tableau.com/views/GlobalCovidSituation/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 -- Data start date - end date
 SELECT
   MIN(date) as data_start_date, MAX(date) as data_to_date
